@@ -16,7 +16,7 @@ class MyApplet extends Applet.TextApplet {
         super(orientation, panel_height, instance_id);
         this._currentDay = null;
         this._currentBlock = null;
-        this.set_applet_label("-- / --");
+        this.set_applet_label("-- | --");
 
         // Set up popup menu
         this.menuManager = new PopupMenu.PopupMenuManager(this);
