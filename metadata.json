@@ -1,0 +1,8 @@
+
+{
+  "uuid": "calhoun-day-cycle@oliverpoole09",
+  "name": "Calhoun Day Cycle",
+  "description": "Quickly view what calhoun day it is in the cycle.",
+  "version": "0.1",
+  "max-instances": 1
+}

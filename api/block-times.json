@@ -1,0 +1,63 @@
+{
+    "Day 1": {
+        "A Block": "08:25:00",
+        "Cluster": "09:25:00",
+        "Community Time": "09:40:00",
+        "B Block": "10:20:00",
+        "C Block": "11:50:00",
+        "E1 Block": "12:40:00",
+        "E2 Block": "13:30:00",
+        "D Block": "14:20:00"
+    },
+    "Day 2": {
+        "B Block": "08:25:00",
+        "Cluster": "09:25:00",
+        "Community Time": "09:40:00",
+        "C Block": "10:20:00",
+        "D Block": "11:50:00",
+        "E1 Block": "12:40:00",
+        "E2 Block": "13:30:00",
+        "F Block": "14:20:00"
+    },
+    "Day 3": {
+        "C Block": "08:25:00",
+        "Cluster": "09:25:00",
+        "Community Time": "09:40:00",
+        "D Block": "10:20:00",
+        "F Block": "11:50:00",
+        "E1 Block": "12:40:00",
+        "E2 Block": "13:30:00",
+        "A Block": "14:20:00"
+    },
+    "Day 4": {
+        "D Block": "08:25:00",
+        "Cluster": "09:25:00",
+        "Community Time": "09:40:00",
+        "F Block": "10:20:00",
+        "A Block": "11:50:00",
+        "E1 Block": "12:40:00",
+        "E2 Block": "13:30:00",
+        "B Block": "14:20:00"
+    },
+    "Day 5": {
+        "F Block": "08:25:00",
+        "Cluster": "09:25:00",
+        "Community Time": "09:40:00",
+        "A Block": "10:20:00",
+        "B Block": "11:50:00",
+        "E1 Block": "12:40:00",
+        "E2 Block": "13:30:00",
+        "C Block": "14:20:00"
+    },
+    "Day 6": {
+        "A Block": "08:25:00",
+        "Cluster": "09:25:00",
+        "Community Time": "09:40:00",
+        "B Block": "10:20:00",
+        "D Block": "11:05:00",
+        "C Block": "11:50:00",
+        "E1 Block": "12:40:00",
+        "E2 Block": "13:30:00",
+        "F Block": "14:20:00"
+    }
+}
