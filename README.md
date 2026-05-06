@@ -1,6 +1,14 @@
-# calhoun-day-cycle
+<p align="center">
+  <img src="https://img.shields.io/badge/JS-Language-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/status-finished-green?style=for-the-badge" />
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge" />
+  </a>
+</p>
 
-A Cinnamon desktop applet for Calhoun students that displays the current day in the school's rotating 6-day cycle, along with the current block — right in your panel.
+<h1 align="center">calhoun-day-cycle</h1>
+
+<p align="center"><i>A Cinnamon desktop applet for Calhoun students that displays the current day in the school's rotating 6-day cycle, along with the current block — right in your panel.</i></p>
 
 ## What is the Day Cycle?
 
