@@ -12,7 +12,7 @@
 
 ---
 
-## What is the Day Cycle?
+## 📅 What is the Day Cycle? 
 
 Calhoun (My School) runs on a 6-day rotating schedule. Rather than a standard Monday–Friday week, each school day is labeled **Day 1 through Day 6**. Since there are only 5 days in a week, the cycle carries over across weeks — so Day 1 might fall on a Monday one week and a Tuesday the next.
 
@@ -32,7 +32,7 @@ Each day has its own unique block schedule. Blocks are labeled A–F plus commun
 
 The applet scrapes the Calhoun school calendar daily to determine the current day, then calculates the current block based on the time.
 
-## Features
+## 🚀 Features
 
 - Shows the current day (e.g. `Day 3`) and block (e.g. `B Block`) in your panel at a glance
 - Click the applet to open a popup with the full day and block info
@@ -40,7 +40,7 @@ The applet scrapes the Calhoun school calendar daily to determine the current da
 - Shows `No School` on days with no scheduled day cycle
 - Shows `Before School` or `End of Day` outside of school hours
 
-## Requirements
+## 📕 Requirements 
 
 - Linux with the **Cinnamon** desktop environment
 - Python 3
@@ -53,7 +53,7 @@ Install them with:
 pip install requests beautifulsoup4 --break-system-packages
 ```
 
-## Installation
+## 📦 Installation
 
 1. Clone or download this repository into your Cinnamon applets folder:
 ```bash
@@ -66,19 +66,7 @@ git clone https://github.com/oliverpoole09/calhoun-day-cycle ~/.local/share/cinn
 
 4. The applet will appear in your panel and start fetching data automatically
 
-## Project Structure
-
-```
-calhoun-day-cycle@oliverpoole09/
-├── api/
-│   ├── api.py              # Scrapes the calendar and calculates the current block
-│   ├── block-times.json    # Block start times for each day in the cycle
-│   └── current_dat.json    # Output file written by api.py, read by the applet
-├── applet.js               # Main Cinnamon applet code
-└── metadata.json           # Applet metadata (name, uuid, version)
-```
-
-## How It Works
+## ⚙️ How It Works
 
 1. When the applet loads, it runs `api.py` in the background
 2. `api.py` scrapes the Calhoun school calendar to find today's day number
@@ -87,6 +75,6 @@ calhoun-day-cycle@oliverpoole09/
 5. The applet reads the JSON and updates the panel label
 6. This repeats every 60 seconds automatically
 
-## License
+## 📜 License
 
 MIT License — feel free to use, modify, and share.
