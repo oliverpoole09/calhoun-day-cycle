@@ -76,12 +76,12 @@ class MyApplet extends Applet.TextApplet {
             return true;
         });
 
-        Mainloop.timeout_add(30 * 1000, () => {
+        Mainloop.timeout_add(3 * 1000, () => {
             this._updateLabel();
             return true;
         });
 
-        Mainloop.timeout_add(5000, () => {
+        Mainloop.timeout_add(1000, () => {
             this._updateLabel();
             return false;
         });
