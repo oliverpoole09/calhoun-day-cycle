@@ -10,6 +10,8 @@
 
 <p align="center"><i>A Cinnamon desktop applet for Calhoun students that displays the current day in the school's rotating 6-day cycle, along with the current block — right in your panel.</i></p>
 
+---
+
 ## What is the Day Cycle?
 
 Calhoun (My School) runs on a 6-day rotating schedule. Rather than a standard Monday–Friday week, each school day is labeled **Day 1 through Day 6**. Since there are only 5 days in a week, the cycle carries over across weeks — so Day 1 might fall on a Monday one week and a Tuesday the next.
