@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JS-Language-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/status-finished-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/platform-Linux%20Mint-lightgreen?style=for-the-badge" />
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge" />
   </a>
